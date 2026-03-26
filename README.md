@@ -22,3 +22,10 @@ El regulador simple utiliza un diodo zener en inversa con el valor de tensión r
 
 <img width="654" height="548" alt="imagen" src="https://github.com/user-attachments/assets/8ff7bc31-b487-493f-86f2-6e5b065adf1a" />
 <img width="1358" height="568" alt="imagen" src="https://github.com/user-attachments/assets/8a35026f-ee71-4ff6-bbd8-6140cca33ef7" />
+
+Se forma un circuito con realimentación negativa en donde se pueden identificar los bloques realimentador f ( R1 y R2 ) , amplificador a (Q1 , Q2) y la tensión de referencia la entrada negativa. El bloque amplificador consta de un emisor común y un colector común. 
+
+Mientras se cumpla la condicicón af > 1 , la dependencia de la salida sera respecto a R1 e R2, y no de beta.
+
+Vo = A( Vz + VBE2 ) = 1/f ( Vz + VBE2 ) = ([R1 + R2]/[R2]) ( Vz + VBE2 ) 
+
