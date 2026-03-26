@@ -29,3 +29,14 @@ Mientras se cumpla la condicicón af > 1 , la dependencia de la salida sera resp
 
 Vo = A( Vz + VBE2 ) = 1/f ( Vz + VBE2 ) = ([R1 + R2]/[R2]) ( Vz + VBE2 ) 
 
+
+3) Implementación con Amplificador operacional:
+
+<img width="847" height="263" alt="imagen" src="https://github.com/user-attachments/assets/c290f740-9a69-48b3-9ef5-0e658b46c76c" />
+
+<img width="611" height="426" alt="imagen" src="https://github.com/user-attachments/assets/c82c5136-b8f9-4660-85d9-b63dd32d9fac" />
+
+<img width="1357" height="571" alt="imagen" src="https://github.com/user-attachments/assets/e16d6c67-b9b8-4cfe-83ab-f5e17c1194bb" />
+
+
+ 4) Regulador con limitación de corriente
