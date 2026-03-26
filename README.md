@@ -39,4 +39,8 @@ Vo = A( Vz + VBE2 ) = 1/f ( Vz + VBE2 ) = ([R1 + R2]/[R2]) ( Vz + VBE2 )
 <img width="1357" height="571" alt="imagen" src="https://github.com/user-attachments/assets/e16d6c67-b9b8-4cfe-83ab-f5e17c1194bb" />
 
 
- 4) Regulador con limitación de corriente
+ 4) Regulador con amplificador diferencial
+
+  Reemplazando el emisor común con un amplificador diferencial se disminuye aun mas el ruido, debido al rechazo del modo común y la influencia de la temperatura.
+
+  
