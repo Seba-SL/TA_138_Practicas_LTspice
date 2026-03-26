@@ -14,8 +14,8 @@ Regulador de tensión serie
 
 
 El regulador simple utiliza un diodo zener en inversa con el valor de tensión requerido, entre los inconvenientes se encuentran:
-i) Caida de 0,7 V de VBE del transistor.
-ii) Mala regulación frente a cambios de RL y de temperatura, ya que Vo depende de VBE, R_L y beta, lo cual no es deseado.
+-i) Caida de 0,7 V de VBE del transistor.
+-ii) Mala regulación frente a cambios de RL y de temperatura, ya que Vo depende de VBE, R_L y beta, lo cual no es deseado.
 
 2)Regulador en serie mejorado
 
